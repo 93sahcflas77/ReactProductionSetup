@@ -1,1 +1,9 @@
-@import "tailwindcss";
+@import 'tailwindcss';
+
+.login-container{
+    background-color: red;
+}
+
+.button{
+    @apply bg-amber-700;
+}
